@@ -1,0 +1,22 @@
+{
+  "name": "rjslp",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "clipboard": "^2.0.11",
+    "preact": "^10.5.15",
+    "react-clipboard.js": "^2.0.16"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.1.5",
+    "autoprefixer": "^10.4.7",
+    "postcss": "^8.4.13",
+    "tailwindcss": "^3.0.24",
+    "vite": "^2.9.9"
+  }
+}
